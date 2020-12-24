@@ -1,0 +1,13 @@
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\bin\Debug\netcoreapp3.1\BrickWork.exe
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\bin\Debug\netcoreapp3.1\BrickWork.deps.json
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\bin\Debug\netcoreapp3.1\BrickWork.runtimeconfig.json
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\bin\Debug\netcoreapp3.1\BrickWork.runtimeconfig.dev.json
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\bin\Debug\netcoreapp3.1\BrickWork.dll
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\bin\Debug\netcoreapp3.1\BrickWork.pdb
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\obj\Debug\netcoreapp3.1\BrickWork.csprojAssemblyReference.cache
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\obj\Debug\netcoreapp3.1\BrickWork.csproj.CoreCompileInputs.cache
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\obj\Debug\netcoreapp3.1\BrickWork.AssemblyInfoInputs.cache
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\obj\Debug\netcoreapp3.1\BrickWork.AssemblyInfo.cs
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\obj\Debug\netcoreapp3.1\BrickWork.dll
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\obj\Debug\netcoreapp3.1\BrickWork.pdb
+E:\PROJECTS\MentorMate\BrickWork\BrickWork\BrickWork\obj\Debug\netcoreapp3.1\BrickWork.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\reigncraving\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\reigncraving\\.nuget\\packages"
+    ]
+  }
+}
